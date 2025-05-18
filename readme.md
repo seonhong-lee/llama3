@@ -1,3 +1,5 @@
+한권으로 끝내는 실전LLM 파인튜닝 코드
+
 pip install "torch==2.2.2" tensorboard
  
 
